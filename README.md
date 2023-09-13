@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalho com desenvolvimento full stack
-- 🎓 Estudante Ciência da Computação 6º periodo
+- 🎓 Estudante Ciência da Computação 8º periodo
 - 🌱 Estudando React Native
 - 📫 Contate me no E-mail: lucasfernandes_222@hotmail.com
 
